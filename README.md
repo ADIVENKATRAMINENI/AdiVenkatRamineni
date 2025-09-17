@@ -12,31 +12,14 @@
 ## 💻 Tech Stack  
 
 ### 🧑‍💻 Programming / Verification Languages  
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog&logoColor=white)  
-![Verilog](https://img.shields.io/badge/Verilog-orange?style=flat-square&logo=verilog&logoColor=white)  
-![UVM](https://img.shields.io/badge/UVM-green?style=flat-square&logo=verification&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square)  
-![Shell](https://img.shields.io/badge/Shell_Scripting-black?style=flat-square&logo=gnu-bash&logoColor=white)  
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=verilog&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-orange?style=flat-square&logo=verilog&logoColor=white) ![UVM](https://img.shields.io/badge/UVM-green?style=flat-square&logo=verification&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square) ![Shell](https://img.shields.io/badge/Shell_Scripting-black?style=flat-square&logo=gnu-bash&logoColor=white)  
 
 ### 🏢 Verification & Methodologies  
-![Functional Verification](https://img.shields.io/badge/Functional%20Verification-red?style=flat-square)  
-![Formal Verification](https://img.shields.io/badge/Formal%20Verification-lightblue?style=flat-square)  
-![SoC Verification](https://img.shields.io/badge/SoC%20Verification-orange?style=flat-square)  
-![ASIC Verification](https://img.shields.io/badge/ASIC%20Verification-darkgreen?style=flat-square)  
-![UVM Testbenches](https://img.shields.io/badge/UVM%20Testbenches-purple?style=flat-square)  
-![Assertions](https://img.shields.io/badge/SystemVerilog%20Assertions-yellow?style=flat-square)  
-![Coverage](https://img.shields.io/badge/Functional%20&%20Code%20Coverage-brightgreen?style=flat-square)  
+![Functional Verification](https://img.shields.io/badge/Functional%20Verification-red?style=flat-square) ![Formal Verification](https://img.shields.io/badge/Formal%20Verification-lightblue?style=flat-square) ![SoC Verification](https://img.shields.io/badge/SoC%20Verification-orange?style=flat-square) ![ASIC Verification](https://img.shields.io/badge/ASIC%20Verification-darkgreen?style=flat-square) ![UVM Testbenches](https://img.shields.io/badge/UVM%20Testbenches-purple?style=flat-square) 
+![Assertions](https://img.shields.io/badge/SystemVerilog%20Assertions-yellow?style=flat-square) ![Coverage](https://img.shields.io/badge/Functional%20&%20Code%20Coverage-brightgreen?style=flat-square)  
 
 ### 🧰 Tools & Simulation  
-![ModelSim](https://img.shields.io/badge/ModelSim-blue?style=flat-square)  
-![QuestaSim](https://img.shields.io/badge/QuestaSim-darkblue?style=flat-square)  
-![Synopsys](https://img.shields.io/badge/Synopsys%20DesignVision-purple?style=flat-square)  
-![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-red?style=flat-square)  
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)  
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)  
+![ModelSim](https://img.shields.io/badge/ModelSim-blue?style=flat-square) ![QuestaSim](https://img.shields.io/badge/QuestaSim-darkblue?style=flat-square) ![Synopsys](https://img.shields.io/badge/Synopsys%20DesignVision-purple?style=flat-square) ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-red?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)  
 
 ---
 
