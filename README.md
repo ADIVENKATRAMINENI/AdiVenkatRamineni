@@ -25,13 +25,45 @@
 
 ## 🌟 Projects  
 
-🔹 **Functional Verification of SoC Interconnect** – UVM-based verification environment with drivers, monitors, and scoreboards. Validated multi-IP communication with constrained-random testing and coverage.  
+🔹 Advanced Verification of LC3 Processor
 
-🔹 **ASIC Data Path Verification** – Verified datapath operations using SystemVerilog testbenches, assertions, and random/directed testing. Improved efficiency of verification cycles.  
+Tools & Languages: SystemVerilog, UVM, UVMF, QuestaSim
 
-🔹 **I2C Multi-Bus Functional Verification** – Developed a layered UVM testbench including generator, driver, monitor, predictor, and scoreboard. Achieved high code and functional coverage with assertions.  
+Built a UVM-based testbench for decode and write-back stages of the LC3 microcontroller using UVMF code generator.
 
-🔹 **Logic Design & Synthesis of Single-Stage Neural Network** – Designed optimized RTL for a binary CNN stage, synthesized using Synopsys Design Vision, verified timing with ModelSim.  
+Collaborated with a team of 5 to integrate 7 functional blocks at SoC level for full-system verification.
+
+Implemented functional coverage models at both core and unit levels to validate pipeline execution.
+
+🔹 AHB Interconnect UVC Development (Personal Project)
+
+Tools & Languages: SystemVerilog, UVM
+
+Developed an AHB5 Universal Verification Component (UVC) supporting multiple masters and slaves.
+
+Implemented scoreboard, coverage, and assertion classes, improving bug detection and reducing debug time by 35%.
+
+Streamlined testing by creating reusable sequence libraries and configurable UVM components.
+
+🔹 Quantum Computer RTL Design
+
+Tools & Languages: Verilog, Synopsys Design Compiler, ModelSim
+
+Designed RTL for a quantum computer model with variable qubits, optimized for area, timing, and performance.
+
+Applied parallelized computation to minimize latency and validated timing closure with Synopsys Design Compiler.
+
+Verified functionality through simulation and synthesis, ensuring reliable matrix multiplication with complex numbers.
+
+🔹 Functional Verification of I2CMB Controller
+
+Tools & Languages: SystemVerilog, UVM, QuestaSim
+
+Built a layered UVM testbench including generator, agent, driver, monitor, predictor, and scoreboard for I2CMB.
+
+Applied constrained-random + directed tests with covergroups, cross-coverage, and assertions to validate corner cases.
+
+Achieved 100% functional coverage and ~96% code coverage, ensuring robust protocol compliance.
 
 ---
 
