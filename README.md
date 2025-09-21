@@ -33,7 +33,7 @@
 
 ---
 
-### 🔹 AHB Interconnect UVC Development (Personal Project)  
+### 🔹 AHB Interconnect UVC Development
 **Tools & Languages:** SystemVerilog, UVM  
 - Developed an AHB5 Universal Verification Component (UVC) supporting multiple masters and slaves.  
 - Implemented scoreboard, coverage, and assertion classes, improving bug detection and reducing debug time by 35%.  
