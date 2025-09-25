@@ -25,35 +25,36 @@
 
 ## 🌟 Projects  
 
-### 🔹 Advanced Verification of LC3 Processor  
-**Tools & Languages:** SystemVerilog, UVM, UVMF, QuestaSim  
-- Built a UVM-based testbench for decode and write-back stages of the LC3 microcontroller using UVMF code generator.  
-- Collaborated with a team of 5 to integrate 7 functional blocks at SoC level for full-system verification.  
-- Implemented functional coverage models at both core and unit levels to validate pipeline execution.  
+### 🔹 APB Peripheral (UART & GPIO) Verification 
+**Tools & Languages:** SystemVerilog, UVM, Synopsys VCS, Synopsys Verdi     
+•	Developed a UVM-based self-checking testbench for APB-based UART and GPIO peripherals, including drivers, monitors, and scoreboards.
+•	Implemented functional coverage and SystemVerilog Assertions (SVA) to validate APB protocol compliance and data integrity.
+•	Debugged RTL/testbench mismatches and optimized regression runs using Synopsys Verdi and scripting.
 
 ---
 
-### 🔹 AHB Interconnect UVC Development
-**Tools & Languages:** SystemVerilog, UVM  
-- Developed an AHB5 Universal Verification Component (UVC) supporting multiple masters and slaves.  
-- Implemented scoreboard, coverage, and assertion classes, improving bug detection and reducing debug time by 35%.  
-- Streamlined testing by creating reusable sequence libraries and configurable UVM components.  
+### 🔹 AXI4 Interconnect Verification 
+**Tools & Languages:** SystemVerilog, UVM, Synopsys VCS, Synopsys Verdi
+•	Built a UVM verification environment for AXI4 interconnect, supporting burst, split, and misaligned transfers.
+•	Wrote constrained-random testcases and assertions to validate handshake, protocol timing, and data integrity.
+•	Achieved functional coverage closure (>95%) and debugged corner-case failures using Verdi waveform analysis.
+
 
 ---
 
-### 🔹 Quantum Computer RTL Design  
-**Tools & Languages:** Verilog, Synopsys Design Compiler, ModelSim  
-- Designed RTL for a quantum computer model with variable qubits, optimized for area, timing, and performance.  
-- Applied parallelized computation to minimize latency and validated timing closure with Synopsys Design Compiler.  
-- Verified functionality through simulation and synthesis, ensuring reliable matrix multiplication with complex numbers.  
+### 🔹Functional Verification of I2CMB Controller 
+**Tools & Languages:** SystemVerilog, UVM, Cadence Xcelium, SimVision 
+•	Verified I2CMB controller RTL functionality using SystemVerilog + UVM, including read/write sequences and error handling scenarios.
+•	Developed scoreboards and functional coverage models to ensure completeness of verification.
+•	Debugged RTL/testbench mismatches with SimVision, analyzed waveform failures, and implemented corrective test sequences.
 
 ---
 
-### 🔹 Functional Verification of I2CMB Controller  
-**Tools & Languages:** SystemVerilog, UVM, QuestaSim  
-- Built a layered UVM testbench including generator, agent, driver, monitor, predictor, and scoreboard for I2CMB.  
-- Applied constrained-random + directed tests with covergroups, cross-coverage, and assertions to validate corner cases.  
-- Achieved 100% functional coverage and ~96% code coverage, ensuring robust protocol compliance.  
+### 🔹 AHB Interconnect UVC Development 
+**Tools & Languages:** SystemVerilog, UVM, Synopsys VCS, Synopsys Verdi   
+•	Designed and implemented UVM Verification Component (UVC) for AHB interconnect, including agent, driver, monitor, and scoreboard.
+•	Developed directed and constrained-random sequences to test read/write and burst operations.
+•	Collected functional coverage and debugged protocol violations using Synopsys Verdi, improving testbench reliability.
 
 ---
 
