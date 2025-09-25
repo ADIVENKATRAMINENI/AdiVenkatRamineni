@@ -1,10 +1,10 @@
 ### Hi, I'm ADI VENKAT RAMINENI👋  
 
-🔧 Design Verification Engineer passionate about **ASIC Verification, Functional Verification, and Digital Design**.
-💻 Skilled in **SystemVerilog, UVM, Verilog**, and building reusable verification environments.
-🚀 Hands-on experience with **RTL Testbenches, Constrained-Random Testing, Assertions (SVA), and Coverage Analysis**.
-🎓 Master’s in Computer Engineering from California State University, Northridge.
-🌱 Currently working on advanced projects in **protocol verification, interconnect testbenches, and ASIC block-level verification**.
+🔧 Design Verification Engineer passionate about **ASIC Verification, Functional Verification, and Digital Design**.<br>
+💻 Skilled in **SystemVerilog, UVM, Verilog**, and building reusable verification environments.<br>
+🚀 Hands-on experience with **RTL Testbenches, Constrained-Random Testing, Assertions (SVA), and Coverage Analysis**.<br>
+🎓 Master’s in Computer Engineering from California State University, Northridge.<br>
+🌱 Currently working on advanced projects in **protocol verification, interconnect testbenches, and ASIC block-level verification**.<br>
 
 ---
 
