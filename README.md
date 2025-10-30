@@ -12,14 +12,14 @@
 
 ### 🧩 Verification Languages & Methodologies  
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square) ![UVM](https://img.shields.io/badge/UVM-1.2-green?style=flat-square) ![SVA](https://img.shields.io/badge/Assertions%20(SVA)-orange?style=flat-square) 
-![Coverage](https://img.shields.io/badge/Functional%20Coverage-yellow?style=flat-square) 
+![Coverage](https://img.shields.io/badge/Functional%20Coverage-yellow?style=flat-square) <br>
 **Core:** Constrained-Random Verification, Assertion-Based Verification (ABV), Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Env)
 
 ### ⚙️ Tools & Technologies  
 ![Synopsys VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=flat-square) ![Cadence Xcelium](https://img.shields.io/badge/Cadence-Xcelium-red?style=flat-square) ![SimVision](https://img.shields.io/badge/Cadence-SimVision-orange?style=flat-square)![QuestaSim](https://img.shields.io/badge/Siemens-QuestaSim-darkblue?style=flat-square)![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=flat-square)![Linux](https://img.shields.io/badge/Linux-black?style=flat-square)![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square)![Shell](https://img.shields.io/badge/Shell_Scripting-gray?style=flat-square)
 
 ### 🔌 Protocols & Design Knowledge  
-AXI4 | AHB | APB | I2C | UART | GPIO | SPI | PCI Express | FSM Modeling | SoC Architecture | RTL Design using Verilog  
+AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architecture, RTL Design using Verilog.
 
 ---
 
@@ -78,16 +78,12 @@ AXI4 | AHB | APB | I2C | UART | GPIO | SPI | PCI Express | FSM Modeling | SoC Ar
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vramineni131)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramineni131@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ADIVENKATRAMINENI)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vramineni131) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramineni131@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ADIVENKATRAMINENI)  
 
 ---
 
-# 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=ADIVENKATRAMINENI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADIVENKATRAMINENI&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADIVENKATRAMINENI&theme=dark&hide_border=false&layout=compact)  
+# 📊 GitHub Stats 
+![](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ---
 
