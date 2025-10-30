@@ -73,7 +73,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 ---
 
 ## 📜 Certification  
-[![Cadence Certified](https://img.shields.io/badge/Cadence-SystemVerilog%20for%20Design%20%26%20Verification-blue?style=flat&logo=cadence)](https://www.credly.com/users/venkat-ramineni)
+[![Cadence Certified](https://img.shields.io/badge/Cadence-SystemVerilog%20for%20Design%20%26%20Verification-blue?style=flat&logo=cadence)](https://www.credly.com/badges/3b34ff8a-de69-411c-bb52-0bfc0ca3b156/public_url)
 
 ---
 
