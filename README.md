@@ -8,6 +8,21 @@
 
 ---
 
+## 🧠 Work Experience  
+
+**🎓 CSU Northridge — Graduate Assistant (ASIC/SoC Verification)**  
+- Built and debugged SystemVerilog/UVM testbenches for datapath and control-path modules.  
+- Mentored 25+ graduate students in **SystemVerilog, UVM, and Digital Design** projects.  
+
+**🏢 Wipro Technologies — Design Verification Engineer**  
+- Verified **AXI4/AHB-based SoC subsystems** using UVM; achieved **>95% coverage** in regressions.  
+- Integrated reusable UVM components and debugged simulations using **VCS + Verdi**.  
+
+**🔬 AICTE Idea Labs — Design Verification Intern**  
+- Developed UVM testbenches for **APB and AXI IPs**, implemented coverage models, and improved regression stability.  
+
+---
+
 ## 💻 Technical Skills  
 
 ### 🧩 Verification Languages & Methodologies  
@@ -54,21 +69,6 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 - Designed a **UVM Verification Component (UVC)** for AHB protocol.  
 - Supported burst operations & randomized test scenarios.  
 - Collected functional coverage & resolved protocol violations efficiently.  
-
----
-
-## 🧠 Work Experience  
-
-**🎓 CSU Northridge — Graduate Assistant (ASIC/SoC Verification)**  
-- Built and debugged SystemVerilog/UVM testbenches for datapath and control-path modules.  
-- Mentored 25+ graduate students in **SystemVerilog, UVM, and Digital Design** projects.  
-
-**🏢 Wipro Technologies — Design Verification Engineer**  
-- Verified **AXI4/AHB-based SoC subsystems** using UVM; achieved **>95% coverage** in regressions.  
-- Integrated reusable UVM components and debugged simulations using **VCS + Verdi**.  
-
-**🔬 AICTE Idea Labs — Design Verification Intern**  
-- Developed UVM testbenches for **APB and AXI IPs**, implemented coverage models, and improved regression stability.  
 
 ---
 
