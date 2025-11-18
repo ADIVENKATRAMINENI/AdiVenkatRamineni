@@ -83,7 +83,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 ---
 
 # 📊 GitHub Stats 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=dark&hide_border=false) 
 
 ---
 
