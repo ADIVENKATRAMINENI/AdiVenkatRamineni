@@ -54,7 +54,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 -Developed reference model and scoreboard to validate every transmitted and received byte.<br>
 -Applied constrained-random tests with jitter and error injections, achieving 97% functional coverage.<br>
 
---
+---
 
 🔹**APB Slave Verification**<br>
 **Tools:** SystemVerilog, UVM, APB Protocol, Synopsys VCS<br>
@@ -62,7 +62,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 -Built reference register model & scoreboard for PRDATA/PWRITE/PENABLE timing validation.<br>
 -Ran directed & random back-to-back transfers, resolving PRDATA sampling issues (~96% coverage).<br>
 
---
+---
 
 🔹 **AXI4-Lite Slave Verification**<br>
 **Tools:** SystemVerilog, UVM, AXI4-Lite, Synopsys VCS<br>
@@ -70,7 +70,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 -Implemented reference register model & scoreboard for data and handshake timing validation.<br>
 -Applied back-to-back and random delay tests, fixing WDATA handshake bugs (~94% coverage).<br>
 
---
+---
 
 🔹 **AXI4 + DMA Subsystem Verification**<br>
 **Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS<br>
@@ -78,7 +78,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 -Verified INCR burst transfers, back-pressure, misaligned lengths, and interrupt signaling under randomized timing.<br>
 -Built reference memory model to check SRC→DST DMA memory-copy correctness, achieving 0 data mismatches.<br>
 
---
+---
 
 ## 📜 Certification  
 [![Cadence Certified](https://img.shields.io/badge/Cadence-SystemVerilog%20for%20Design%20%26%20Verification-blue?style=flat&logo=cadence)](https://www.credly.com/badges/3b34ff8a-de69-411c-bb52-0bfc0ca3b156/public_url)
