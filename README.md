@@ -90,11 +90,4 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 ---
 
-# 📊 GitHub Stats 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=dark&hide_border=false) 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ADIVENKATRAMINENI&icon=0&color=0)](https://visitcount.itsvg.in)  
-
 <!-- Created with GPRM template and customized for Design Verification Engineer profile -->
