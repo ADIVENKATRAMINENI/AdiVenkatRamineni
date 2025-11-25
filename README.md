@@ -38,39 +38,51 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 ---
 
-## 🌟 Featured Verification Projects  
+## 🌟 Verification Projects  
 
-### 🔹 **I2CMB Controller Verification**
-**Tools:** SystemVerilog, UVM, Cadence Xcelium, SimVision  
-- Verified **I2C master-slave controller RTL** using directed & constrained-random tests.  
-- Built **scoreboards and coverage models** ensuring verification completeness.  
-- Debugged mismatches with **SimVision** and optimized test sequences.  
 
----
 
-### 🔹 **APB Peripheral (UART & GPIO) Verification**
-**Tools:** SystemVerilog, UVM, Synopsys VCS, Verdi  
-- Created a **self-checking UVM testbench** for UART & GPIO peripherals.  
-- Implemented **SVA and functional coverage** for protocol validation.  
-- Automated regressions and waveform analysis with **Verdi scripting**.  
+
+
+### 🔹 **FIFO Verification**
+**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim
+-Designed a synchronous FIFO UVM testbench with driver, monitor, scoreboard, and reference model.
+-Verified full/empty, overflow/underflow, and simultaneous read/write corner cases using directed & constrained-random tests.
+-Implemented functional coverage for depth usage, flag transitions, and edge conditions (~92% coverage).
 
 ---
 
-### 🔹 **AXI4 Interconnect Verification**
-**Tools:** SystemVerilog, UVM, Synopsys VCS, Verdi  
-- Developed a **UVM verification environment** for AXI4 interconnect.  
-- Achieved **>95% functional coverage** with advanced constrained-random sequences.  
-- Debugged protocol corner cases using **Verdi waveform viewer**.  
+###🔹 **UART TX + RX Verification**
+**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim
+-Built a UVM environment verifying TX/RX framing, parity, baud-rate, and loopback transfers.
+-Developed reference model and scoreboard to validate every transmitted and received byte.
+-Applied constrained-random tests with jitter and error injections, achieving 97% functional coverage.
 
----
+--
 
-### 🔹 **AHB Interconnect UVC Development**
-**Tools:** SystemVerilog, UVM, Synopsys VCS, Verdi  
-- Designed a **UVM Verification Component (UVC)** for AHB protocol.  
-- Supported burst operations & randomized test scenarios.  
-- Collected functional coverage & resolved protocol violations efficiently.  
+###🔹**APB Slave Verification**
+**Tools:** SystemVerilog, UVM, APB Protocol, Synopsys VCS
+-Created a UVM APB master agent generating read/write transactions with randomized wait-states.
+-Built reference register model & scoreboard for PRDATA/PWRITE/PENABLE timing validation.
+-Ran directed & random back-to-back transfers, resolving PRDATA sampling issues (~96% coverage).
 
----
+--
+
+###🔹 **AXI4-Lite Slave Verification**
+**Tools:** SystemVerilog, UVM, AXI4-Lite, Synopsys VCS
+-Designed a UVM AXI4-Lite environment verifying all five channels for single-beat transfers.
+-Implemented reference register model & scoreboard for data and handshake timing validation.
+-Applied back-to-back and random delay tests, fixing WDATA handshake bugs (~94% coverage).
+
+--
+
+###🔹 **AXI4 + DMA Subsystem Verification**
+**Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS
+-Developed full UVM environment with AXI4 master agent, DMA config agent, scoreboard, and memory model.
+-Verified INCR burst transfers, back-pressure, misaligned lengths, and interrupt signaling under randomized timing.
+-Built reference memory model to check SRC→DST DMA memory-copy correctness, achieving 0 data mismatches.
+
+--
 
 ## 📜 Certification  
 [![Cadence Certified](https://img.shields.io/badge/Cadence-SystemVerilog%20for%20Design%20%26%20Verification-blue?style=flat&logo=cadence)](https://www.credly.com/badges/3b34ff8a-de69-411c-bb52-0bfc0ca3b156/public_url)
