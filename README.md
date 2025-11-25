@@ -86,7 +86,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (http://www.linkedin.com/in/ramineni131) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramineni131@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ADIVENKATRAMINENI)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ramineni131) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramineni131@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ADIVENKATRAMINENI)  
 
 ---
 
