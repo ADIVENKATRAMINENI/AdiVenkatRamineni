@@ -48,7 +48,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 ---
 
-###🔹 **UART TX + RX Verification**
+###🔹 **UART TX + RX Verification**<br>
 **Tools:** SystemVerilog, UVM, ModelSim/QuestaSim<br>
 -Built a UVM environment verifying TX/RX framing, parity, baud-rate, and loopback transfers.<br>
 -Developed reference model and scoreboard to validate every transmitted and received byte.<br>
@@ -56,7 +56,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 --
 
-###🔹**APB Slave Verification**
+###🔹**APB Slave Verification**<br>
 **Tools:** SystemVerilog, UVM, APB Protocol, Synopsys VCS<br>
 -Created a UVM APB master agent generating read/write transactions with randomized wait-states.<br>
 -Built reference register model & scoreboard for PRDATA/PWRITE/PENABLE timing validation.<br>
@@ -64,7 +64,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 --
 
-###🔹 **AXI4-Lite Slave Verification**
+###🔹 **AXI4-Lite Slave Verification**<br>
 **Tools:** SystemVerilog, UVM, AXI4-Lite, Synopsys VCS<br>
 -Designed a UVM AXI4-Lite environment verifying all five channels for single-beat transfers.<br>
 -Implemented reference register model & scoreboard for data and handshake timing validation.<br>
@@ -72,7 +72,7 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 --
 
-###🔹 **AXI4 + DMA Subsystem Verification**
+###🔹 **AXI4 + DMA Subsystem Verification**<br>
 **Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS<br>
 -Developed full UVM environment with AXI4 master agent, DMA config agent, scoreboard, and memory model.<br>
 -Verified INCR burst transfers, back-pressure, misaligned lengths, and interrupt signaling under randomized timing.<br>
