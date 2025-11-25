@@ -40,47 +40,43 @@ AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architectur
 
 ## 🌟 Verification Projects  
 
-
-
-
-
 ### 🔹 **FIFO Verification**
-**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim
--Designed a synchronous FIFO UVM testbench with driver, monitor, scoreboard, and reference model.
--Verified full/empty, overflow/underflow, and simultaneous read/write corner cases using directed & constrained-random tests.
--Implemented functional coverage for depth usage, flag transitions, and edge conditions (~92% coverage).
+**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim<br>
+-Designed a synchronous FIFO UVM testbench with driver, monitor, scoreboard, and reference model.<br>
+-Verified full/empty, overflow/underflow, and simultaneous read/write corner cases using directed & constrained-random tests.<br>
+-Implemented functional coverage for depth usage, flag transitions, and edge conditions (~92% coverage).<br>
 
 ---
 
 ###🔹 **UART TX + RX Verification**
-**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim
--Built a UVM environment verifying TX/RX framing, parity, baud-rate, and loopback transfers.
--Developed reference model and scoreboard to validate every transmitted and received byte.
--Applied constrained-random tests with jitter and error injections, achieving 97% functional coverage.
+**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim<br>
+-Built a UVM environment verifying TX/RX framing, parity, baud-rate, and loopback transfers.<br>
+-Developed reference model and scoreboard to validate every transmitted and received byte.<br>
+-Applied constrained-random tests with jitter and error injections, achieving 97% functional coverage.<br>
 
 --
 
 ###🔹**APB Slave Verification**
-**Tools:** SystemVerilog, UVM, APB Protocol, Synopsys VCS
--Created a UVM APB master agent generating read/write transactions with randomized wait-states.
--Built reference register model & scoreboard for PRDATA/PWRITE/PENABLE timing validation.
--Ran directed & random back-to-back transfers, resolving PRDATA sampling issues (~96% coverage).
+**Tools:** SystemVerilog, UVM, APB Protocol, Synopsys VCS<br>
+-Created a UVM APB master agent generating read/write transactions with randomized wait-states.<br>
+-Built reference register model & scoreboard for PRDATA/PWRITE/PENABLE timing validation.<br>
+-Ran directed & random back-to-back transfers, resolving PRDATA sampling issues (~96% coverage).<br>
 
 --
 
 ###🔹 **AXI4-Lite Slave Verification**
-**Tools:** SystemVerilog, UVM, AXI4-Lite, Synopsys VCS
--Designed a UVM AXI4-Lite environment verifying all five channels for single-beat transfers.
--Implemented reference register model & scoreboard for data and handshake timing validation.
--Applied back-to-back and random delay tests, fixing WDATA handshake bugs (~94% coverage).
+**Tools:** SystemVerilog, UVM, AXI4-Lite, Synopsys VCS<br>
+-Designed a UVM AXI4-Lite environment verifying all five channels for single-beat transfers.<br>
+-Implemented reference register model & scoreboard for data and handshake timing validation.<br>
+-Applied back-to-back and random delay tests, fixing WDATA handshake bugs (~94% coverage).<br>
 
 --
 
 ###🔹 **AXI4 + DMA Subsystem Verification**
-**Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS
--Developed full UVM environment with AXI4 master agent, DMA config agent, scoreboard, and memory model.
--Verified INCR burst transfers, back-pressure, misaligned lengths, and interrupt signaling under randomized timing.
--Built reference memory model to check SRC→DST DMA memory-copy correctness, achieving 0 data mismatches.
+**Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS<br>
+-Developed full UVM environment with AXI4 master agent, DMA config agent, scoreboard, and memory model.<br>
+-Verified INCR burst transfers, back-pressure, misaligned lengths, and interrupt signaling under randomized timing.<br>
+-Built reference memory model to check SRC→DST DMA memory-copy correctness, achieving 0 data mismatches.<br>
 
 --
 
