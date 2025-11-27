@@ -39,9 +39,7 @@
 **Core:** Constrained-Random Verification, Assertion-Based Verification (ABV), Directed Tests, Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Environment), Regression Setup, Waveform Debugging, Functional & Code Coverage  
 
 ### ⚙️ Tools & Technologies
-![Synopsys VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=flat-square) ![Cadence Xcelium](https://img.shields.io/badge/Cadence-Xcelium-red?style=flat-square) ![SimVision](https://img.shields.io/badge/Cadence-SimVision-orange?style=flat-square)  
-![QuestaSim](https://img.shields.io/badge/Siemens-QuestaSim-darkblue?style=flat-square) ![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square)  
+![Synopsys VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=flat-square) ![Cadence Xcelium](https://img.shields.io/badge/Cadence-Xcelium-red?style=flat-square) ![SimVision](https://img.shields.io/badge/Cadence-SimVision-orange?style=flat-square) ![QuestaSim](https://img.shields.io/badge/Siemens-QuestaSim-darkblue?style=flat-square) ![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square)  
 
 ### 🔌 Design & Protocol Knowledge
 AXI4, AXI4-Lite, DMA, APB, UART, GPIO, I2C, SPI, PCI (Basics), RISC-V, IP & Subsystem Verification, SoC Concepts, FSM Design, RTL Debugging  
