@@ -1,82 +1,89 @@
-### Hi, I'm ADI VENKAT RAMINENI👋  
+### Hi, I'm ADI VENKAT RAMINENI👋 
+## Design Verification Engineer
 
-🔧 Design Verification Engineer passionate about **ASIC/SOC Verification, Functional Verification, and Digital Design**.<br>
-💻 Skilled in **SystemVerilog, UVM, Verilog**, and building reusable verification environments.<br>
-🚀 Hands-on experience with **RTL Testbenches, Constrained-Random Testing, Assertions (SVA), and Coverage Analysis**.<br>
-🎓 Master’s in Computer Engineering from California State University, Northridge.<br>
-🌱 Currently working on advanced projects in **protocol verification, interconnect testbenches, and ASIC block-level verification**.<br>
-
----
-
-## 🧠 Work Experience  
-
-**🎓 CSU Northridge — Graduate Assistant (ASIC/SoC Verification)**  
-- Built and debugged SystemVerilog/UVM testbenches for datapath and control-path modules.  
-- Mentored 25+ graduate students in **SystemVerilog, UVM, and Digital Design** projects.  
-
-**🏢 Wipro Technologies — Design Verification Engineer**  
-- Verified **AXI4/AHB-based SoC subsystems** using UVM; achieved **>95% coverage** in regressions.  
-- Integrated reusable UVM components and debugged simulations using **VCS + Verdi**.  
-
-**🔬 AICTE Idea Labs — Design Verification Intern**  
-- Developed UVM testbenches for **APB and AXI IPs**, implemented coverage models, and improved regression stability.  
+Passionate about **ASIC/SOC Verification, Functional Verification, and Digital Design**.  
+💻 Skilled in **SystemVerilog, UVM, AXI4, APB, UART, DMA, PCIe, Python & TCL**  
+🚀 Hands-on experience with **full testbench development, constrained-random testing, assertions, functional coverage, and subsystem-level verification**.  
+🎓 Master’s in Computer Engineering from **California State University, Northridge**  
+🌱 Currently exploring advanced **protocol verification, DMA/AXI subsystems, and SoC-level testbenches**  
 
 ---
 
-## 💻 Technical Skills  
+## 🧠 Work Experience
 
-### 🧩 Verification Languages & Methodologies  
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square) ![UVM](https://img.shields.io/badge/UVM-1.2-green?style=flat-square) ![SVA](https://img.shields.io/badge/Assertions%20(SVA)-orange?style=flat-square) 
-![Coverage](https://img.shields.io/badge/Functional%20Coverage-yellow?style=flat-square) <br>
-**Core:** Constrained-Random Verification, Assertion-Based Verification (ABV), Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Env)
+**🎓 CSU Northridge — Digital Design Verification Graduate Assistant** | Los Angeles, USA  
+*Aug 2024 – Dec 2025*  
+- Verified **AMBA-based IPs, UART, FIFO, ALU, and counters** using reusable UVM components.  
+- Built **subsystem-level environments** for lab and research work, assisting students and professors.  
+- Debugged designs with **Cadence Xcelium**, fixed handshake/timing issues, achieving **>98% functional coverage**.  
+- Gained practical exposure to **RISC-V, PCIe, CPU/GPU, assertions, and formal verification**.  
 
-### ⚙️ Tools & Technologies  
-![Synopsys VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=flat-square) ![Cadence Xcelium](https://img.shields.io/badge/Cadence-Xcelium-red?style=flat-square) ![SimVision](https://img.shields.io/badge/Cadence-SimVision-orange?style=flat-square)![QuestaSim](https://img.shields.io/badge/Siemens-QuestaSim-darkblue?style=flat-square)![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=flat-square)![Linux](https://img.shields.io/badge/Linux-black?style=flat-square)![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square)![Shell](https://img.shields.io/badge/Shell_Scripting-gray?style=flat-square)
+**🏢 Wipro — Design Verification Engineer** | Bangalore, India  
+*Feb 2021 – Jul 2022*  
+- Verified **AXI4 + DMA subsystems and Audio IP blocks** using UVM, integrating IPs into SoC setups with stub/fake models.  
+- Debugged waveforms in **Cadence Xcelium**, resolved handshake, data-alignment, and timing issues.  
+- Automated regressions and logging with **Python and Perl scripts**; added assertions and coverage points to strengthen testbenches.  
+- Delivered stable results with **100% functional coverage and zero scoreboard mismatches**.  
 
-### 🔌 Protocols & Design Knowledge  
-AXI4, AHB, APB, I2C, UART, GPIO, SPI, PCI Express, FSM Modeling, SoC Architecture, RTL Design using Verilog.
+**🔬 AICTE Idea Labs SRKR — Design Verification Intern** | Andhra Pradesh, India  
+*Aug 2020 – Dec 2020*  
+- Verified **AXI4, AXI-Lite, and APB IPs** using SystemVerilog UVM with drivers, monitors, scoreboards, and coverage models.  
+- Simulated designs using **Synopsys VCS**, debugged errors, and improved stability of multiple UVM testbenches.  
 
 ---
 
-## 🌟 Verification Projects  
+## 💻 Technical Skills
+
+### 🧩 Verification Languages & Methodologies
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square) ![UVM](https://img.shields.io/badge/UVM-1.2-green?style=flat-square) ![SVA](https://img.shields.io/badge/Assertions%20(SVA)-orange?style=flat-square)  
+**Core:** Constrained-Random Verification, Assertion-Based Verification (ABV), Directed Tests, Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Environment), Regression Setup, Waveform Debugging, Functional & Code Coverage  
+
+### ⚙️ Tools & Technologies
+![Synopsys VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=flat-square) ![Cadence Xcelium](https://img.shields.io/badge/Cadence-Xcelium-red?style=flat-square) ![SimVision](https://img.shields.io/badge/Cadence-SimVision-orange?style=flat-square)  
+![QuestaSim](https://img.shields.io/badge/Siemens-QuestaSim-darkblue?style=flat-square) ![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square)  
+
+### 🔌 Design & Protocol Knowledge
+AXI4, AXI4-Lite, DMA, APB, UART, GPIO, I2C, SPI, PCI (Basics), RISC-V, IP & Subsystem Verification, SoC Concepts, FSM Design, RTL Debugging  
+
+---
+
+## 🌟 Verification Projects
+
+### 🔹 **AXI4 + DMA Subsystem Verification**
+**Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS  
+- Developed **subsystem-level UVM testbench** combining AXI4 master, AXI-Lite config interface, DMA engine, and AXI memory model.  
+- Verified **INCR bursts, back-pressure, misaligned lengths, READY/VALID timing, and interrupts**.  
+- Checked memory contents before and after DMA transfers; achieved **0 data mismatches & full functional coverage**.  
+
+---
+
+### 🔹 **AXI4-Lite Slave Verification**
+**Tools:** SystemVerilog, UVM, Synopsys VCS  
+- Implemented UVM environment for **all five AXI4-Lite channels** with random delays and error injections.  
+- Built reference register model & scoreboard, resolved **WDATA sampling issues**, achieving ~98% functional coverage.  
+
+---
+
+### 🔹 **UART TX + RX Verification**
+**Tools:** SystemVerilog, UVM  
+- Designed **loopback & constrained-random tests** for TX/RX, start/stop bits, parity, and continuous frames.  
+- Used **scoreboard** to validate data integrity; fixed stop-bit timing issues, achieving 97% coverage.  
+
+---
+
+### 🔹 **APB Slave Verification**
+**Tools:** SystemVerilog, UVM, APB Protocol  
+- Built UVM APB master agent for **directed and random read/write operations** with variable wait-states.  
+- Validated **data correctness, reset behavior, error responses, and register updates** using scoreboard & reference model (~96% coverage).  
+
+---
 
 ### 🔹 **FIFO Verification**
-**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim<br>
--Designed a synchronous FIFO UVM testbench with driver, monitor, scoreboard, and reference model.<br>
--Verified full/empty, overflow/underflow, and simultaneous read/write corner cases using directed & constrained-random tests.<br>
--Implemented functional coverage for depth usage, flag transitions, and edge conditions (~92% coverage).<br>
-
----
-
-🔹 **UART TX + RX Verification**<br>
-**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim<br>
--Built a UVM environment verifying TX/RX framing, parity, baud-rate, and loopback transfers.<br>
--Developed reference model and scoreboard to validate every transmitted and received byte.<br>
--Applied constrained-random tests with jitter and error injections, achieving 97% functional coverage.<br>
-
----
-
-🔹**APB Slave Verification**<br>
-**Tools:** SystemVerilog, UVM, APB Protocol, Synopsys VCS<br>
--Created a UVM APB master agent generating read/write transactions with randomized wait-states.<br>
--Built reference register model & scoreboard for PRDATA/PWRITE/PENABLE timing validation.<br>
--Ran directed & random back-to-back transfers, resolving PRDATA sampling issues (~96% coverage).<br>
-
----
-
-🔹 **AXI4-Lite Slave Verification**<br>
-**Tools:** SystemVerilog, UVM, AXI4-Lite, Synopsys VCS<br>
--Designed a UVM AXI4-Lite environment verifying all five channels for single-beat transfers.<br>
--Implemented reference register model & scoreboard for data and handshake timing validation.<br>
--Applied back-to-back and random delay tests, fixing WDATA handshake bugs (~94% coverage).<br>
-
----
-
-🔹 **AXI4 + DMA Subsystem Verification**<br>
-**Tools:** SystemVerilog, UVM, AXI4, DMA, AXI Memory Model, Synopsys VCS<br>
--Developed full UVM environment with AXI4 master agent, DMA config agent, scoreboard, and memory model.<br>
--Verified INCR burst transfers, back-pressure, misaligned lengths, and interrupt signaling under randomized timing.<br>
--Built reference memory model to check SRC→DST DMA memory-copy correctness, achieving 0 data mismatches.<br>
+**Tools:** SystemVerilog, UVM, ModelSim/QuestaSim  
+- Designed **synchronous FIFO UVM testbench** with driver, monitor, scoreboard, and reference model.  
+- Verified **full/empty, overflow/underflow, and simultaneous read/write corner cases** using directed & constrained-random tests.  
+- Implemented functional coverage (~92%) on depth usage, flag transitions, and edge conditions.  
 
 ---
 
