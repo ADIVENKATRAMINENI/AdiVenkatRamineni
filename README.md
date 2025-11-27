@@ -5,7 +5,7 @@
 💻 Skilled in **SystemVerilog, UVM, AXI4, APB, UART, DMA, PCIe, Python & TCL**  
 🚀 Hands-on experience with **full testbench development, constrained-random testing, assertions, functional coverage, and subsystem-level verification**.  
 🎓 Master’s in Computer Engineering from **California State University, Northridge**  
-🌱 Currently exploring advanced **protocol verification, DMA/AXI subsystems, and SoC-level testbenches**  
+🌱 Currently exploring advanced **protocol verification, PCIe, RISC - V, DMA/AXI subsystems, and SoC-level testbenches**  
 
 ---
 
