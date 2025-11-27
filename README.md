@@ -86,11 +86,11 @@ AXI4, AXI4-Lite, DMA, APB, UART, GPIO, I2C, SPI, PCI (Basics), RISC-V, IP & Subs
 ---
 
 ## 📜 Certification  
-(https://img.shields.io/badge/Cadence-SystemVerilog%20for%20Design%20%26%20Verification-blue?style=flat&logo=cadence)](https://www.credly.com/badges/3b34ff8a-de69-411c-bb52-0bfc0ca3b156/public_url)
-[![SystemVerilog Accelerated Verification with UVM](https://img.shields.io/badge/SystemVerilog%20Accelerated%20Verification%20with%20UVM-blue?style=flat&logo=systemverilog)](file:///C:/Aadi_Resumes/VLSI/Materials/DV/UVM/Cadence%20Materials/UVM_Course%20Certificate.pdf)
+[![Cadence Certified](https://img.shields.io/badge/Cadence-SystemVerilog%20for%20Design%20%26%20Verification-blue?style=flat&logo=cadence)](https://www.credly.com/badges/3b34ff8a-de69-411c-bb52-0bfc0ca3b156/public_url)
+[![SystemVerilog Accelerated Verification with UVM](https://img.shields.io/badge/SystemVerilog%20Accelerated%20Verification%20with%20UVM-blue?style=flat&logo=systemverilog)](file:///C:/Aadi_Resumes/VLSI/Materials/DV/UVM/Cadence%20Materials/UVM_Course%20Certificate.pdf) [![SystemVerilog for UVM v1.2.6](https://img.shields.io/badge/SystemVerilog%20for%20UVM%20v1.2.6-blue?style=flat&logo=systemverilog)](file:///C:/Aadi_Resumes/VLSI/Materials/DV/UVM/Cadence%20Materials/SystemVerilog%20for%20UVM%20Course%20Certificate.pdf)
 [![Python for Everybody](https://img.shields.io/badge/Python%20for%20Everybody-yellow?style=flat&logo=python)](file:///C:/AR/files/Documents/Btech/Certifications/Python_Courseera.pdf)
 [![Python Data Structures](https://img.shields.io/badge/Python%20Data%20Structures-lightgrey?style=flat&logo=python)](file:///C:/AR/files/Documents/Btech/Certifications/python_DS.pdf)
-[![SystemVerilog for UVM v1.2.6](https://img.shields.io/badge/SystemVerilog%20for%20UVM%20v1.2.6-blue?style=flat&logo=systemverilog)](file:///C:/Aadi_Resumes/VLSI/Materials/DV/UVM/Cadence%20Materials/SystemVerilog%20for%20UVM%20Course%20Certificate.pdf)
+
 
 ---
 
