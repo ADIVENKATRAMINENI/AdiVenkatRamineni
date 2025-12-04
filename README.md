@@ -12,11 +12,9 @@
 ## 🧠 Work Experience
 
 **🎓 CSU Northridge — Digital Design Verification Graduate Assistant** | Los Angeles, USA  
-*Aug 2024 – Dec 2025*  
-- Verified **AMBA-based IPs, UART, FIFO, ALU, and counters** using reusable UVM components.  
+*Aug 2024 – Dec 2025*   
 - Built **subsystem-level environments** for lab and research work, assisting students and professors.  
 - Debugged designs with **Cadence Xcelium**, fixed handshake/timing issues, achieving **>98% functional coverage**.  
-- Gained practical exposure to **RISC-V, PCIe, CPU/GPU, assertions, and formal verification**.  
 
 **🏢 Wipro — Design Verification Engineer** | Bangalore, India  
 *Feb 2021 – Jul 2022*  
