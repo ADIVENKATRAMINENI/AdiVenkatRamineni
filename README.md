@@ -11,20 +11,17 @@
 
 ## 🧠 Work Experience
 
-**🎓 CSU Northridge — Digital Design Verification Graduate Assistant** | Los Angeles, USA  
-*Aug 2024 – Dec 2025*   
+**🎓 CSU Northridge — Digital Design Verification Graduate Assistant** | Los Angeles, USA   
 - Built **subsystem-level environments** for lab and research work, assisting students and professors.  
 - Debugged designs with **Cadence Xcelium**, fixed handshake/timing issues, achieving **>98% functional coverage**.  
 
 **🏢 Wipro — Design Verification Engineer** | Bangalore, India  
-*Feb 2021 – Jul 2022*  
 - Verified **AXI4 + DMA subsystems and Audio IP blocks** using UVM, integrating IPs into SoC setups with stub/fake models.  
 - Debugged waveforms in **Cadence Xcelium**, resolved handshake, data-alignment, and timing issues.  
 - Automated regressions and logging with **Python and Perl scripts**; added assertions and coverage points to strengthen testbenches.  
 - Delivered stable results with **100% functional coverage and zero scoreboard mismatches**.  
 
 **🔬 AICTE Idea Labs SRKR — Design Verification Intern** | Andhra Pradesh, India  
-*Aug 2020 – Dec 2020*  
 - Verified **AXI4, AXI-Lite, and APB IPs** using SystemVerilog UVM with drivers, monitors, scoreboards, and coverage models.  
 - Simulated designs using **Synopsys VCS**, debugged errors, and improved stability of multiple UVM testbenches.  
 
