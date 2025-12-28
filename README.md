@@ -31,7 +31,7 @@
 
 ### 🧩 Verification Languages & Methodologies
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square) ![UVM](https://img.shields.io/badge/UVM-1.2-green?style=flat-square) ![SVA](https://img.shields.io/badge/Assertions%20(SVA)-orange?style=flat-square)  
-**Core:** Constrained-Random Verification, Assertion-Based Verification (ABV), Directed Tests, Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Environment), Regression Setup, Waveform Debugging, Functional & Code Coverage  
+**Core:** Constrained-Random Verification, Assertion-Based Verification (ABV), Directed Tests, Testbench Architecture (Driver, Monitor, Scoreboard, Agent, Environment), Regression Setup, Waveform Debugging, Functional & Code Coverage, FPGA Architecture
 
 ### ⚙️ Tools & Technologies
 ![Synopsys VCS](https://img.shields.io/badge/Synopsys-VCS-purple?style=flat-square) ![Cadence Xcelium](https://img.shields.io/badge/Cadence-Xcelium-red?style=flat-square) ![SimVision](https://img.shields.io/badge/Cadence-SimVision-orange?style=flat-square) ![QuestaSim](https://img.shields.io/badge/Siemens-QuestaSim-darkblue?style=flat-square) ![Verdi](https://img.shields.io/badge/Synopsys-Verdi-green?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TCL](https://img.shields.io/badge/TCL-lightgrey?style=flat-square) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square) ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square)  
