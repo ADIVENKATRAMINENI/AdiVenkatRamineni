@@ -51,6 +51,14 @@ AXI4, AXI4-Lite, DMA, APB, UART, GPIO, I2C, SPI, PCI (Basics), RISC-V, IP & Subs
 
 ---
 
+### 🔹 **RISC-V (RV32I) Processor Verification**
+**Tools:** SystemVerilog, UVM, Functional Coverage, CPU Architecture
+- Developed a UVM-based verification environment to validate RV32I instruction execution, control flow, and architectural state updates.
+- Created directed and constrained-random tests for arithmetic, logical, load/store, and branch instructions, debugging PC updates, register writes, and control-flow issues.
+- Defined and tracked functional coverage across instruction types, operand combinations, and branch conditions, achieving high confidence and stable simulation results.
+
+---
+
 ### 🔹 **AXI4-Lite Slave Verification**
 **Tools:** SystemVerilog, UVM, Synopsys VCS  
 - Implemented UVM environment for **all five AXI4-Lite channels** with random delays and error injections.  
