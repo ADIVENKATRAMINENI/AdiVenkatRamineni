@@ -87,7 +87,7 @@ AXI4, AXI4-Lite, DMA, APB, UART, GPIO, I2C, SPI, PCI, RISC-V, IP & Subsystem Ver
 **Tools:** SystemVerilog, UVM, ModelSim/QuestaSim  
 - Designed **synchronous FIFO UVM testbench** with driver, monitor, scoreboard, and reference model.  
 - Verified **full/empty, overflow/underflow, and simultaneous read/write corner cases** using directed & constrained-random tests.  
-- Implemented functional coverage (~92%) on depth usage, flag transitions, and edge conditions.  
+- Implemented functional coverage (~97%) on depth usage, flag transitions, and edge conditions.  
 
 ---
 
