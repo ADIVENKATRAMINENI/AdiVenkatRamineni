@@ -12,18 +12,21 @@
 ## 🧠 Work Experience
 
 **🎓 CSU Northridge — Digital Design Verification Graduate Assistant** | Los Angeles, USA   
-- Built **subsystem-level environments** for lab and research work, assisting students and professors.  
-- Debugged designs with **Cadence Xcelium**, fixed handshake/timing issues, achieving **>98% functional coverage**.  
+- Built reusable UVM components for 10+ lab and research testbenches, integrated IPs into subsystems, and debugged handshake/timing issues, achieving 97%+ functional coverage.
+- Verified a RISC-V processor (RV32I) by validating instruction execution, control flow, PC updates, and register behavior; identified functional bugs and achieved ~98% functional coverage with stable, repeatable simulations.
+
 
 **🏢 Wipro — Design Verification Engineer** | Bangalore, India  
-- Verified **AXI4 + DMA subsystems and Audio IP blocks** using UVM, integrating IPs into SoC setups with stub/fake models.  
-- Debugged waveforms in **Cadence Xcelium**, resolved handshake, data-alignment, and timing issues.  
-- Automated regressions and logging with **Python and Perl scripts**; added assertions and coverage points to strengthen testbenches.  
-- Delivered stable results with **100% functional coverage and zero scoreboard mismatches**.  
+- Verified AXI4 + DMA subsystems and Audio IPs by developing UVM components, running read/write and data-transfer tests, and integrating IPs into a SoC environment for reliable end-to-end validation.
+- Debugged waveforms in Cadence Xcelium, fixing handshake, alignment, and timing issues; automated regressions with Python/Perl scripts, cutting manual test setup and log checks by ~40%.
+- Delivered 100% functional coverage with zero scoreboard mismatches, improving testbench flow and catching corner cases early.
+  
 
 **🔬 AICTE Idea Labs SRKR — Design Verification Intern** | Andhra Pradesh, India  
-- Verified **AXI4, AXI-Lite, and APB IPs** using SystemVerilog UVM with drivers, monitors, scoreboards, and coverage models.  
-- Simulated designs using **Synopsys VCS**, debugged errors, and improved stability of multiple UVM testbenches.  
+- Verified AXI4, AXI-Lite, and APB IPs using SystemVerilog UVM by building drivers, monitors, scoreboards, and coverage models to validate protocol compliance and register read/write operations.
+- Simulated designs using Synopsys VCS, debugged errors, fixed timing issues, and improved the stability of multiple UVM testbenches.
+- Verified UART, FIFO, ALU and counter blocks, ran simulations and timing checks, and gained hands-on experience in computer architecture, assertions, PCIe, and memory controller behavior.
+
 
 ---
 
