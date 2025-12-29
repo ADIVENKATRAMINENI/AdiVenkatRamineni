@@ -2,7 +2,7 @@
 ## **Design Verification Engineer**
 
 🔧 Passionate about **ASIC/SOC Verification, FPGA Verification, Functional Verification, and Digital Logic Design**.  
-💻 Skilled in **SystemVerilog, UVM, AXI4, APB, RISC-V, UART, DMA, PCIe, Python & TCL**  
+💻 Skilled in **SystemVerilog, UVM, AXI4, APB, RISC-V, DMA, PCIe, UART, Python & TCL**  
 🚀 Hands-on experience with **full testbench development, constrained-random testing, assertions, functional coverage, and subsystem-level verification**.  
 🎓 Master’s in Computer Engineering from **California State University, Northridge**  
 🌱 Currently exploring advanced **protocol verification, PCIe, RISC - V, DMA/AXI subsystems, and SoC-level testbenches**  
