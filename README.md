@@ -14,6 +14,7 @@
 **🎓 CSU Northridge - Digital Design Verification Graduate Assistant** | Los Angeles, USA   
 - Built reusable UVM components for 10+ lab and research testbenches, integrated IPs into subsystems, and debugged handshake/timing issues, achieving 97%+ functional coverage.
 - Verified a RISC-V processor (RV32I) by validating instruction execution, control flow, PC updates, and register behavior; identified functional bugs and achieved ~98% functional coverage with stable, repeatable simulations.
+- Verified UART, FIFO, ALU and counter blocks, ran simulations and timing checks, and gained hands-on experience in computer architecture, assertions, PCIe, and memory controller behavior.
 
 
 **🏢 Wipro - Design Verification Engineer** | Bangalore, India  
@@ -25,7 +26,6 @@
 **🔬 AICTE Idea Labs SRKR - Design Verification Intern** | Andhra Pradesh, India  
 - Verified AXI4, AXI-Lite, and APB IPs using SystemVerilog UVM by building drivers, monitors, scoreboards, and coverage models to validate protocol compliance and register read/write operations.
 - Simulated designs using Synopsys VCS, debugged errors, fixed timing issues, and improved the stability of multiple UVM testbenches.
-- Verified UART, FIFO, ALU and counter blocks, ran simulations and timing checks, and gained hands-on experience in computer architecture, assertions, PCIe, and memory controller behavior.
 
 
 ---
