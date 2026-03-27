@@ -13,6 +13,15 @@
 
 **🎓 CSU Northridge - Digital Design & Verification Graduate Assistant** | Los Angeles, USA   
 - Built reusable UVM components for 10+ lab and research testbenches, integrated IPs into subsystems, and debugged handshake/timing issues, achieving 97%+ functional coverage.
+- Designed and implemented RTL modules using Verilog/SystemVerilog for digital subsystems targeting Xilinx Zynq
+7000 FPGA platforms. 
+- Supported the complete FPGA development lifecycle, including RTL design, synthesis, place-and-route, timing 
+closure, and bitstream generation using Xilinx Vivado. 
+- Performed functional simulation and verification to validate RTL functionality prior to FPGA deployment. 
+- Conducted timing analysis and timing closure, resolving setup and hold violations during FPGA implementation. 
+- Debugged timing violations (setup/hold) and supported timing closure during FPGA implementation. 
+- Executed FPGA board bring-up and hardware validation, verifying clock/reset behavior, I/O interfaces, and system 
+functionality on Zynq development boards.
 - Verified a RISC-V processor (RV32I) by validating instruction execution, control flow, PC updates, and register behavior; identified functional bugs and achieved ~98% functional coverage with stable, repeatable simulations.
 - Verified UART, FIFO, ALU and counter blocks, ran simulations and timing checks, and gained hands-on experience in computer architecture, assertions, PCIe, and memory controller behavior.
 
