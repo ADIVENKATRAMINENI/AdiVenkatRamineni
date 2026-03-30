@@ -71,6 +71,15 @@ AXI4, AXI4-Lite, DMA, APB, UART, GPIO, I2C, SPI, PCI, RISC-V, IP & Subsystem Ver
 
 ---
 
+### 🔹 **Cache Coherent Memory Subsystem Verification**
+**Tools:** SystemVerilog, UVM, DDR, CPU Cache                                     
+-	Developed a UVM testbench to verify a memory subsystem with CPU cores, L1/L2 caches, and DDR memory.
+-	Created directed and constrained-random tests to validate cache read/write behavior and basic coherence scenarios.
+-	Monitored memory transactions and cache line updates using a scoreboard and reference model.
+-	Achieved functional coverage across key cache and memory operations.
+
+---
+
 ### 🔹 **AXI4-Lite Slave Verification**
 **Tools:** SystemVerilog, UVM, Synopsys VCS  
 - Implemented UVM environment for **all five AXI4-Lite channels** with random delays and error injections.  
