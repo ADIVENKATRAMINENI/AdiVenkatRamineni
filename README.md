@@ -2,10 +2,10 @@
 ## **Design Verification Engineer**
 
 🔧 Passionate about **ASIC/SOC Verification, FPGA Verification, Functional Verification, and Digital Logic Design**.  
-💻 Skilled in **SystemVerilog, UVM, AXI4, APB, RISC-V, DMA, PCIe, UART, Python & TCL**  
+💻 Skilled in **SystemVerilog, UVM, AXI4, APB, RISC-V, DMA, UART, I2C, FIFO, Python & TCL**  
 🚀 Hands-on experience with **full testbench development, constrained-random testing, assertions, functional coverage, and subsystem-level verification**.  
 🎓 Master’s in Computer Engineering from **California State University, Northridge**  
-🌱 Currently exploring advanced **protocol verification, PCIe, RISC - V, DMA/AXI subsystems, and SoC-level testbenches**  
+🌱 Currently exploring advanced **protocol verification, PCIe, RISC - V, DDR4, DMA/AXI subsystems, and SoC-level testbenches**  
 
 ---
 
@@ -23,8 +23,8 @@ closure, and bitstream generation using Xilinx Vivado.
 - Executed FPGA board bring-up and hardware validation, verifying clock/reset behavior, I/O interfaces, and system 
 functionality on Zynq development boards.
 - Verified a RISC-V processor (RV32I) by validating instruction execution, control flow, PC updates, and register behavior; identified functional bugs and achieved ~98% functional coverage with stable, repeatable simulations.
-- Verified UART, FIFO, ALU and counter blocks, ran simulations and timing checks, and gained hands-on experience in computer architecture, assertions, PCIe, and memory controller behavior.
-
+- Developed Python scripts, assertions, and functional coverage models to automate regression and track coverage closure.
+- Gained working knowledge of PCIe concepts, DDR4 memory basics, and cache coherency while validating CPU-memory interactions.  
 
 **🏢 Wipro - Design Verification Engineer** | Bangalore, India  
 - Verified AXI4 + DMA subsystems and Audio IPs by developing UVM components, running read/write and data-transfer tests, and integrating IPs into a SoC environment for reliable end-to-end validation.
@@ -33,8 +33,10 @@ functionality on Zynq development boards.
   
 
 **🔬 AICTE Idea Labs SRKR - Digital Design & Verification Intern** | Andhra Pradesh, India  
-- Verified AXI4, AXI-Lite, and APB IPs using SystemVerilog UVM by building drivers, monitors, scoreboards, and coverage models to validate protocol compliance and register read/write operations.
-- Simulated designs using Synopsys VCS, debugged errors, fixed timing issues, and improved the stability of multiple UVM testbenches.
+- Designed and verified UART, FIFO, AXI4, AXI-Lite, and APB IPs, building drivers, monitors, scoreboards, and coverage models to 
+ensure protocol compliance and correct functionality.  
+- Simulated and debugged designs using Synopsys VCS, resolving functional and timing issues to improve testbench stability.  
+- Developed functional coverage and assertion checks to capture corner-case scenarios and enhance testbench effectiveness.
 
 
 ---
