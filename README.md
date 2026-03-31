@@ -12,7 +12,10 @@
 ## 🧠 Work Experience
 
 **🎓 CSU Northridge - Digital Design & Verification Graduate Assistant** | Los Angeles, USA   
-- Built reusable UVM components for 10+ lab and research testbenches, integrated IPs into subsystems, and debugged handshake/timing issues, achieving 97%+ functional coverage.
+- Built UVM testbenches for 7+ projects, integrating IPs and verifying subsystem-level functionality with ~97% coverage.  
+- Verified RISC-V RV32I processor, including instruction execution, PC updates, and register behavior; detected functional bugs and achieved ~98% coverage with repeatable simulations. 
+- Developed Python scripts, assertions, and functional coverage models to automate regression and track coverage closure.  
+- Gained working knowledge of PCIe concepts, DDR4 memory basics, and cache coherency while validating CPU-memory interactions. 
 - Designed and implemented RTL modules using Verilog/SystemVerilog for digital subsystems targeting Xilinx Zynq
 7000 FPGA platforms. 
 - Supported the complete FPGA development lifecycle, including RTL design, synthesis, place-and-route, timing 
@@ -22,9 +25,7 @@ closure, and bitstream generation using Xilinx Vivado.
 - Debugged timing violations (setup/hold) and supported timing closure during FPGA implementation. 
 - Executed FPGA board bring-up and hardware validation, verifying clock/reset behavior, I/O interfaces, and system 
 functionality on Zynq development boards.
-- Verified a RISC-V processor (RV32I) by validating instruction execution, control flow, PC updates, and register behavior; identified functional bugs and achieved ~98% functional coverage with stable, repeatable simulations.
-- Developed Python scripts, assertions, and functional coverage models to automate regression and track coverage closure.
-- Gained working knowledge of PCIe concepts, DDR4 memory basics, and cache coherency while validating CPU-memory interactions.  
+
 
 **🏢 Wipro - Design Verification Engineer** | Bangalore, India  
 - Verified AXI4 + DMA subsystems and Audio IPs by developing UVM components, running read/write and data-transfer tests, and integrating IPs into a SoC environment for reliable end-to-end validation.
